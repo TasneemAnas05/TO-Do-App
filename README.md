@@ -9,6 +9,12 @@ It is a CRUD TO-DO App for : <br>
 -Editing tasks<br>
 -Deleting tasks<br>
 -Showing tasks<br>
+# Technologies Used : <br>
+-HTML <br>
+-CSS<br>
+-Js<br>
+-Bootstrap<br>
+
 
 # Flow Chart to help you understand  my app:
 
