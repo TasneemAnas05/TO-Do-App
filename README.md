@@ -1,6 +1,6 @@
 # TO-Do-App
 
-Stay tuned for new updates 🤩❇✨
+<h4 style="color:#ace894;"> Stay tuned for new updates 🤩❇✨</h4>
 
 # Describtion 
 
