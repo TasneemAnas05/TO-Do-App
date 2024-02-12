@@ -1,5 +1,7 @@
 # TO-Do-App
 
+Stay tuned for new updates 🤩❇✨
+
 # Describtion 
 
 It is a CRUD TO-DO App for : <br>
