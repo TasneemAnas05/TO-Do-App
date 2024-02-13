@@ -16,6 +16,6 @@ It is a CRUD TO-DO App for : <br>
 -Bootstrap<br>
 
 
-# Flow Chart to help you understand  my app:
+# Flow Chart to help you understand how this app work :
 
 ![chart](https://github.com/TasneemAnas05/Simple_SocialMediaApp/assets/125818114/9b07751a-c117-4822-86ca-d33019f4548e)
